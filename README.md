@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to Woxchain</h1>
 
-<!--
-**woxchain/Woxchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 Web3 | Blockchain | Staking | DeFi <br/>
+  🚀 Transforming the future of finance on the blockchain
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Official Links
+- [🌍 Website](https://woxchain.io)
+- [📄 Whitepaper](https://woxchain.io/whitepaper.pdf)
+- [📊 Dashboard](https://dashboard.woxchain.io)
+
+---
+
+## 🚧 Ongoing Projects
+
+| Project        | Status  | Tech Used       |
+|---------------|---------|-----------------|
+| 🟣 WOX Staking | 🔨 Dev  | React, Web3.js  |
+| 🧪 WOX Testnet | ✅ Live | Hardhat, Ethers |
+| 💼 WOX Wallet  | 🧠 Plan | Flutter, Solidity |
+
+---
+
+## 📊 Stats
+
+![Woxchain's GitHub stats](https://github-readme-stats.vercel.app/api?username=woxchain&show_icons=true&theme=radical)
+
+---
