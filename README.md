@@ -19,8 +19,9 @@
 |---------------|---------|-----------------|
 | 🟣 WOX Staking | ✅ Live | React, Web3.js  |
 | 🧪 Woxchain Testnet | ✅ Live | Hardhat, Ethers |
-| 🧪 Woxchain Mainnet | 🔨 Dev | Hardhat, Ethers |
 | 💼 WOX DAPP  | ✅ Live | Flutter, Solidity |
+| 🧪 Woxchain Mainnet | 🔨 Dev | Hardhat, Ethers |
+
 
 ---
 
