@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to Woxchain</h1>
 
-<pWoxchain is a high-performance, secure, and lightweight blockchain network powered by a Proof-of-Authority (PoA) consensus mechanism. Designed for speed, efficiency, and real-world reliability, Woxchain is ideal for enterprise and decentralized application (dApp) development. </p>
+<p Woxchain is a high-performance, secure, and lightweight blockchain network powered by a Proof-of-Authority (PoA) consensus mechanism. Designed for speed, efficiency, and real-world reliability, Woxchain is ideal for enterprise and decentralized application (dApp) development. </p>
 
 <p align="center">
   💡 Web3 | Blockchain | Staking | DeFi <br/>
