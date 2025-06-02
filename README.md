@@ -2,10 +2,6 @@
 
 <p align="center"> Woxchain is a high-performance, secure, and lightweight blockchain network powered by a Proof-of-Authority (PoA) consensus mechanism. Designed for speed, efficiency, and real-world reliability, Woxchain is ideal for enterprise and decentralized application (dApp) development.
 </p>
-<p align="center">
-  💡 Web3 | Blockchain | Staking | DeFi <br/>
-  🚀 Transforming the future of finance on the blockchain
-</p>
 
 ---
 
@@ -24,7 +20,6 @@
 | 💼 WOX DAPP  | ✅ Live | Flutter, Solidity |
 | 🧪 Woxchain Mainnet | 🔨 Dev | Hardhat, Ethers |
 
-
 ---
 
 ## 🚀 Key Features
@@ -35,3 +30,10 @@
 - 💻 EVM-compatible smart contract support
 - 📡 REST & JSON-RPC APIs for integration
 - 🌐 Explorer and faucet for testnet
+
+---
+
+<p align="center">
+  💡 Web3 | Blockchain | Staking | DeFi <br/>
+  🚀 Transforming the future of finance on the blockchain
+</p>
