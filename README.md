@@ -7,7 +7,7 @@
 
 ## 🌐 Official Links
 - [🌍 Website](https://woxchain.com)
-- [📄 Whitepaper](https://woxchain.io/woxchain-whitepaper.pdf)
+- [📄 Whitepaper](https://woxchain.com/woxchain-whitepaper.pdf)
   
 ---
 
