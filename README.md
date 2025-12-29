@@ -15,7 +15,7 @@
 
 | Project        | Status  | Tech Used       |
 |---------------|---------|-----------------|
-| 🧪 Woxchain Testnet   | ✅ Live | Hardhat, Ethers    |
+| 🧪 Woxchain Testnet   | 🔨 Dev | Hardhat, Ethers    |
 | 🟣 WOX Staking        | ✅ Live | React, Web3.js     |
 | 💼 WOX DAPP           | ✅ Live | Flutter, Solidity  |
 | 🤖 WOX AI Assistant   | ✅ Live | AI, NLP, Web3      |
